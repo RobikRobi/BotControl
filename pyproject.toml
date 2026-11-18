@@ -1,0 +1,11 @@
+[project]
+name = "telegrambotauth"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.163.2",
+    "pwdlib>=0.4.2",
+    "sqlalchemy>=2.1.9",
+]
